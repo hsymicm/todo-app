@@ -1,4 +1,4 @@
-# React Todo App
+git commit -m "first commit"# React Todo App
 
 This is a sample react todo app done step-by-step.
 This sample app was a part of react workshop.
